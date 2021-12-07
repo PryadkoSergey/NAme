@@ -1,0 +1,17 @@
+{% block content %}
+   <div class="pagination">
+      {% if context.has_previous %}
+         <a class="page_button" href="?page=1">Перша</a>
+         <a class="page_button" href="?page={{ context.previous_page_number }}">&laquo; Попередня</a>
+      {% endif %}
+
+      <span class="current">
+         Старница {{ context.number }} из {{ context.paginator.num_pages }}.
+      </span>
+
+      {% if context.has_next %}
+         <a class="page_button" href="?page={{ context.next_page_number }}">Наступна &raquo;</a>
+         <a class="page_button" href="?page={{ context.paginator.num_pages }}">Остання</a>
+      {% endif %}
+   </div>
+{% endblock content %}

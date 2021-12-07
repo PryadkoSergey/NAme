@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13f2676e-4dae-461d-b518-8b17e7b039a4" name="Changes" comment="Finish" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21IywbLRD988Nn90RT7ZlHxoIdj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f2676e-4dae-461d-b518-8b17e7b039a4" name="Changes" comment="" />
+      <created>1637643137476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637643137476</updated>
+      <workItem from="1637643139658" duration="669000" />
+      <workItem from="1638049317067" duration="832000" />
+      <workItem from="1638053625566" duration="1497000" />
+      <workItem from="1638099237177" duration="807000" />
+      <workItem from="1638103103470" duration="1263000" />
+      <workItem from="1638104519334" duration="1022000" />
+      <workItem from="1638107892283" duration="1351000" />
+      <workItem from="1638117770798" duration="592000" />
+      <workItem from="1638119591856" duration="599000" />
+      <workItem from="1638203819079" duration="796000" />
+      <workItem from="1638205739591" duration="627000" />
+      <workItem from="1638905969933" duration="1534000" />
+      <workItem from="1638907676008" duration="1695000" />
+      <workItem from="1638909572400" duration="1730000" />
+      <workItem from="1638911519812" duration="1723000" />
+      <workItem from="1638913484964" duration="1691000" />
+      <workItem from="1638915385059" duration="1741000" />
+      <workItem from="1638917288472" duration="650000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finish">
+      <created>1638915056949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638915056949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish" />
+  </component>
+</project>
